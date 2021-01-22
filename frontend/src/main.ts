@@ -6,6 +6,8 @@ import router from './router'
 import store from './store'
 import * as Wails from '@wailsapp/runtime'
 
+import "./assets/tailwind.css"
+
 Vue.config.productionTip = false
 Vue.config.devtools = true
 

@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <button class="px-4 py-2 bg-blue-600 text-white">Tailwind Button</button>
     <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
